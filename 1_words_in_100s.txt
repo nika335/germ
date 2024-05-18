@@ -1,0 +1,100 @@
+essen,ესსენ,ჭამა
+bezahlen,ბეცაალენ,გადახდა
+für,fუა,for
+besucht,ბ^ზუხტ,ეწვია
+reden,ბღიდენ,ლაპარაკი
+über,უბაა,about
+die arbeit,დი ააბაით,სამუშაო
+ins,ინს,into the
+von,fon,of
+liest,ლისთ,კითხულობს
+einige,აინიგე,some
+sucht,ზუხთ,ეძებს
+übernachtet,უბანახთეთ,ღამის გათენება
+so eine,ზუაინე,such a
+die Überraschung,დი უბაღაშო,სიურპრიზი
+Was,ვას,რა
+machst,მახსთ,do
+hier,ჰია,აქ
+beruflich,ბ^ღუFლიჰ,პროფესია
+besuche,ბეზუხე,ვიზიტი
+wohn,ვუნ,ცხოვრება
+jetzt,იეცთ,ახლა
+dort,დოოთ,იქ
+als,ალზ,as
+die Ärztin,დი ეაცსთინ,ექიმი
+dort,დოოთ,იქ
+schon mal,შუნ მალ,ever
+war,ვაა,was
+aber,ააბა,მაგრამ
+noch nicht,ნოხნიჰთ,ჯერ არა
+Hast,ჰასთ,have
+heißt,ჰაისთ,ქვია
+Jahre,იაღე,წლები
+das Jahr,დას იაა,წელი
+alt,ალთ,old
+verheiratet,fეჰაიღათეთ,married
+das Zentrum,დას ცენთღუმ,ცენტრი
+im,იმ,in the
+von,fონ,of
+viel,fიელ,ბევრი
+wie,ვიი,როგორ
+auch,აუხ,ასევე
+geh,გიი,go
+Hast,ჰასთ,have
+Zeit,ცაით,დრო
+heute,ჰოითე,დღეს
+leider,ლაიდა,სამწუხაროდ
+vielleicht,fილაიჰთ,ალბათ
+zusamm,ცუზამ,ერთად
+oder,ოდაა,ან
+Büro,ბ^უღო,ოფისი
+spiele,შფიე,თამაში
+danach,დანახ,ამის შემდეგ
+wieder,ვიდა,ისევ
+kann,ქან,შეძლება
+Da,დაა,there
+fahre,fააღე,ტარება
+dann,დანნ,მაშინ
+Im,იმ,in the
+wohnt,ვუნთ,ცხოვრობს
+steht,შტეთ,ადგომა
+meisten,მაისთნ,most
+frühstück,fრუშტ^უქ,საუზმე
+macht,მახთ,შეიძლება
+mit,მით,-ით
+schreibt,შხაიბთ,წერს
+viele,fილე,ბევრი
+Berichte,ბეღიშთ^,რეპორტი
+jeden,ი^დნ,ყოველ
+Besprechung,ბეშფღეჰიუნ,შეხვედრა
+dauert,დაოათ,გრძელდება
+wieder,ვიდა,ისევ
+ruft,ხუfთ,დარეკვა
+manchmal,მან^ხმალ,ზოგჯერ
+fährt,fიათ,მოძრაობს
+kauft,ქაუfთ,ყიდულობს
+oft,ოfთ,ხშირად
+mit,მით,-თან
+Bett,ბეთ,საწოლი
+Vorlesungen,fო:ლიზუნგენ,ლექციები
+Geld abheben,გელტ აბჰებნ,ფულის გამოტანა
+besuchen,ბეზუხენ,ვიზიტი
+bleiben,ბლაიდნ,რჩება
+brauchen,ბღაუხნ,need
+buchen,ბუხნ,წიგნი
+essen,ესსენ,ჭამა
+fahren,fააღნ,ტარება
+finden,ფინდნ,find
+geben,გიბნ,give
+gehen,გიენ,go
+hängen,ჰენგნ,hang
+kaufen,ქაუfნ,ყიდვა
+kosten,ქოსთნ,ღირს
+landen,ლანდნდ,მიწა
+möchten,მ:შთნ,ისურვებდა
+nehmen,ნიმნ,take
+reden,ღიდნ,საუბარი
+reisen,ღაიზნ,მოგზაურობა
+sehen,ზიინ,see
+stehen,შთინ,დგომა

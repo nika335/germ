@@ -1,0 +1,100 @@
+streiken,შთხაიქენ,გაფიცვა
+fliegen,fლიგენ,ფრენა
+empfängen,ემფfანგენ,მიღება: სტუმრის, საჩუქრის ასშ.
+wirtschaftliche,ვითშაfთლიხ^ე,ეკონომიკური
+zeigen,ცაიგენ,ჩვენება
+liegen,ლიგენ,დება, წოლა
+stattfinden,შთათfინდენ,ჩატარება
+stehen,შთენ,დგომა
+lustig,ლუსთიხ^,მხიარული
+Lied ,ლით,სიმღერა
+Einladung,აინლადუგ,მოწვევა
+Wunsch,ვუნშ,სურვილი
+älter,ელთა,older
+gern,გეან,სიამოვნებით
+vor allem,fო ალემ,უპირველეს ყოვლისა
+Schriftsteller,შღიfთშთელლა,მწერალი
+schon,შუნ,უკვე
+faul,fოილ,ზარმაცი
+zu,ცუ,to
+Fach,fახ,აკადემიური საგანი
+schlechte,შლეჰ^თ^^,ცუდი
+genug,გენუქ,საკმარისი
+mag,მააქ,like
+einfach,აინfახ,უბრალოდ
+groß,გღუს,დიდი
+ungefähr,უნგეfია,დაახლოებით
+täglich,თეექლეშ^,ყოველდღიურად
+beantwortet,ბეანთვოთეთ,answered
+teilgenommen,თაიგენომ^^ნ,took part
+ausgedruckt,აუსგედღუქთ,ამოპრინტერება
+Termine,თემინ^^,Events
+vereinbart,fეაინბათ,შეთანხმება
+gespült,გეშფ^^თ,გარეცხვა
+müde,მუდა,დაღლილი
+ein bisschen,აინ ბესხ^იენ,ოდნავ
+kleine,ქლაინე,პატარა
+Natürlich,ნათურლიშ,ბუნებრივია
+untersucht,უნთაზუხთ,examined
+Rezepte,ღიცეფთე,რეცეფტები
+Vortrag,fოოთხაქ,Speech
+gehalten,გეჰალთ^^ნ,გაიმართა
+gern,გეან,სიამოვნებით
+wenig,ვინიშ,ცოტა
+nur,ნუა,მხოლოდ
+Lebensmittel,ლიბნსმითლ,Groceries
+Gesundheit,გეზუნთჰაით,ჯანმრთელობა
+getan,გეთან,did
+toll,თოლლ,Great
+nimmt,ნიმთ,takes
+regelmäßig,ღიგემისიჰ^,რეგულარულად
+Gebäude,გებაიდ^^,შენობა
+Vereinigten,fეაინ^^შთნ,გაერთიანებული
+Turm,თუმ,კოშკი
+insgesamt,ინსგზამთ,მთლიანობაში
+Straße,შთრასე,ქუჩა
+breit,ბღაით,ფართო
+kurz,ქ^^ც,მოკლე
+scharf,შააF,ბასრი
+wenig,ვინიჰ^,რამდენიმე
+verbringen,fეაბღინგნ,დახარჯვა
+Urlaub,ურლაუბ,შვებულება
+Tierpark,თიეფააქ,ზოოპაკი
+Freiwillige,fღაივილიგ^^,მოხალისეები
+Tiere,თიღ^^,ცხოველები
+engagiert,ანგაჟიათ,committed
+Anfänger,ანfენგა,დამწყები
+zahlreiche,ცაიღაიჰ^ე,მრავალრიცხოვანი
+angebot,ანგებოთ,შეთავაზება
+Besichtigen,ბეზიჰ^თიგნ,ხედი, ვიზიტი
+bietet,ბითეთ,გთავაზობთ
+Abenteuer,აბენთოია,თავგადასავალი
+immer noch,იმა ნოხ,ისევ
+ich weiß,იხ ვაის,ვიცი
+macht,მახთ,might, შეიძლება
+spaß,შპას,გართობა
+eingeladen,აინგელადენ,invited
+ganz,განც,საკმაოდ
+besonderes,ბეზონდეღეს,განსაკუთრებული
+zum ausgehen,ცუმ აუსგემ,to go out
+es gibt,ეს გიფთ,there are
+jemand,იმანთ,ვიღაცა
+erzählt,ეაცეელთ,თქმა
+erfunden,ეაfუნთნ,გამოიგონა
+glaude,გლაუდე,დაჯერება
+unbedingt mal,უნბედინქთ მალ,აუცილებლად
+Möglichkeiten,მუგლიშ^ქაითნ,შესაძლებლობები
+bereits,ბეღაითს,უკვე
+voll,fოლლ,სავსე
+Grund,გღუნთ,მიზეზი
+Sagen,ზაგენ,თქვი
+wartet,ვაათეთ,waits
+noch immer,ნოხ იმა,ისევ
+bedeutet,ბედოითეთ,ნიშნავს
+dass,დასს,რომ
+Studienabschluss,შთუდიენაბშლუს,სწავლის დამთავრება
+Hochschulreife,ჰუხშულღაიfე,უნივერსიტეტში შესასვლელი კვალიფიკაცია
+Masterstudium,მასთაშთუდიომ,მაგისტრის ხარისხი
+Prüfungen,ფღუfუნგენ,გამოცდები
+Schulnoten,შულნუთნ ,ქულები
+Hochzeit,ჰოხცაით,ქორწილი

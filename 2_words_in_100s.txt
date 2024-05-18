@@ -1,0 +1,100 @@
+suchen,ზუხნ,ძებნა
+übernachten,უბანახთნ,ღამის გატარება
+zahlen,ცალენ,გადახდა
+die Angaben,დი ანგაბნ,იმფორმაცია
+der Bahnhof,დეა ბანჰოf,სადგური
+die Überraschung,დი უბაღაშო,სიურპრიზი
+die Ferien,დი fიღიენ,დღესასწაული
+die Fahrkarte,დი fაქათ:,ბილეთი
+das Fahrrad,დას fაღათ,ველოსიპედი
+der Flughafen,დეა fლუქჰაfნ,აეროპორტი
+die Leute,დი ლაითე,ხალხი
+der Mensch,დეა მენშ,ადამიანი
+der Parkplatz,დეა ფარქფლაც,ავტოსადგომი
+das Stück,დას შთუქ,მშვიდობა
+der Saft,დეა ზაfთ,წვენი
+das Zimmer,დას ციმა,ოთახი
+der Zucker,დეა ცუქარ,შაქარი
+der Kellner,დეა ქეინა,მიმტანი კაცი
+die Kellnerin,დი ქეინღნ,მიმტანი ქალი
+vielleicht,fილაიხთ,შეიძლება
+getrennt,გეთხენთ,separated
+wirklich,ვი^ოქლიშ,ნამდვილად
+jetzt,იეცს,ახლა
+gerade,გღად:,სწორი
+dann,დანნ,მაშინ
+dort ,დოთ,there
+berühmt,ბეღუმთ,ცნობილი
+lecker,ლექა,გემრიელი
+es gibt,ეს გიფთ,there are
+früher,fღუა,ადრე
+andere,ანდეღ:,სხვა
+stimmt,შთიმთ,სწორია
+also,ალზო,so
+oder,ოდა,ან
+noch,ნოხ,ისევ
+auch,აუხ,ასევე
+etwa,ეთვა,დაახლოებით
+etwas,ეთვას,რაღაც
+frei,fღეი,უფასო
+mit,მით,თან
+Von,fონ,from
+bis,ბის,untl
+viele,fოლე,ბევრი
+Kantine,ქანთინე,სასადილო
+Am liebsten,ამ ლიბსთნ,სიამოვნებით
+dort,დოოთ, იქ
+Zum,ცუმ,for the
+auch,აუხ,ასევე
+gern,გეან,სიამოვნებით
+im Durchschnitt,იმდუიშნით,საშუალოდ
+das gespräch,დას გეშფხეიჰ,საუბარი
+vorstellen,fოშტელენ,წარდგენა
+dringend,დღინგეთ,სასწრაფოდ
+viel erfolg,fილ ეfოლქ,წარმატებას გისურვებ
+wiederholen,ვიდაჰოლენ,გამეორება
+möglich,მუქლიშ,შესაძლო
+leider,ლაიდა,სამწუხაროდ
+telefonieren,თელეფონიღნ
+sitzt,ზიცსთ,ზის
+tasse,თას^ე,ჭიქა
+Zimmersuche,ციმაზუხე,ოთახის ძებნა
+Wahnsinn,ვანზენ,სიგიჟე
+Die Suche,დი ზუხე,ძებნა
+Woch,ვოხ,კვირა
+gedauert,გედაუათ,გაგრძელდა
+Dann,დანნ,მერე
+ersten,ეასთნ,პირველი
+auch,აუხ,ასევე
+neue,ნოიე,ახალი
+Freunde,fროინდე,მეგობრები
+Aber,აბაა,მაგრამ
+gemeinsam,გემაინზამ,ერთად
+Studium,შთუდიომ,კვლევები
+sind,ზინთ,are
+sehr,ზეა,ძალიან
+langweilig,ლანგვაილი^შ,მოსაწყენი
+hören,ჰუღნ,მოსმენა
+Hochschule,ჰუხშულე,უნივერსიტეტი
+Jahr,იაა,წელიწადი
+Geld,გელთ,ფული
+gestern,გესთან,გუშინ
+wohn,ვუნ,ცხოვრება
+teuer,თოია,ძვირი
+gibt es,გიბთ ეს,არის
+der berg,დეა ბეაგ,მთა
+schnee,შნიი,თოვლი
+heute,ჰოითე,დღეს
+ski gefahren,ში გეfაღნ,თხილამურებით სრიალებდა
+das war,ეს იყო
+kalt,ქალთ,ცივი
+schneit,შნაით,თოვს
+bekonnt,ბექ^^ნთ,ცნობილია
+heute,ჰოითე,დღეს
+moch,მოხ,like
+etwas,ეთვას,რაღაც
+besonderes,ბეზონეღეს,განსაკუთრებული
+nach,ნახ,after ან to
+longsamste,ლონგზამსთე,ყველაზე ნელი
+Zug,ცუქ,მატარებელი
+welt,ველთ,მსოფლიო

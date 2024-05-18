@@ -1,0 +1,100 @@
+reise ,ღაიზ,მოგზაურობა
+dauert,დაუათ,გრძელდება
+stunde,შთუნდე,საათი
+stundern,შთუნდან,საათობით
+die schönheit,დი შუნჰაით,სილამაზე
+sehen,ზინნ,see
+uber,უბა,above
+brucke,ბღუქე,ხიდი
+hohe,ჰ^უე,სიმაღლე
+neben,ნიბნ,გვერდეით
+bildern,ბილდან,სურათები
+nur,ნუა,მხოლოდ
+es gibt,ეს გიფთ,there are
+pferd ,ფfეად,ცხენი
+lieben,ლიბ^ნ,სიყვარული
+Fahrrad,fაღათ,ველოსიპედი
+der Anzug,დეა ანცუგ,კოსტუმი
+die Hose,დი ჰოოზე,შარვალი
+das Hemd,დას ჰემთ,მაისური
+der Mantel,დეა მანთლ,ქურთუკი
+kochen,ქოხნ,cook
+auf,აუf,on
+einkaufen,აინქაუfენ,შოპინგი
+schlafen,შლაfნ,ძილი
+spazieren,შპაციღნ,გასეირნება
+fernsehen,fეამზინ,ტელევიზია
+Wo,ვუ,სად
+Was,ვას,რა
+will,ვილლ,want
+später,შფეთა,მოგვიანებით
+einmal,აინმალ,ერთხელ
+heiße,ჰაის:,name is
+leze,ლიზე,კითხვა მაგ.წიგნის
+Beispiel,ბაიშფიელ,მაგალითი
+immer,იმა,ყოველთვის
+denn,დენ,then
+bleibt,ბლაიბთ,რჩება
+Am Wochenende,ამ ვოხნენდ:,On the weekend
+lange,ლანგ:,გვიან
+meistens,მაისთნს,ძირითადად
+der Stuhl,დეა შთულ,სკამი
+der Tisch,დეა თიშ,მაგიდა
+der Stift,დეა შტიfთ,ფანქარი
+der Regenschirm,დეა ღიგნშ^მ,ქოლგა
+der Schlüssel,დეა შლუსე,გასაღები
+der Beruf,დეა ბეღუF,სამსახური
+die Tasche,დი თაშე,ჯიბე
+die Brille,დი ბღილე,სათვალეები
+die Uhr,დი უა,საათი
+die Seite,დი ზაითე,page
+die Flasche,დი Fლაშე,ბოთლი
+die Besprechung,დი ბეშფღეჰუნ,meeting
+die Wohnung,დი ვონონგ,ბინა
+das Handy,დას ჰენდი,ტელეფონი
+ein bisschen,აინ ბისხიენ,ოდნავ
+als,ალს,as
+laufen,ლაუfნ,სირბილი
+lesen,ლიზნ,კითხვა
+machen,მახნ,make
+bedienen,ბდინ^,serve
+führt,fუათ,leads
+durch,დოშ<,through
+Wohnung,ვონუნგ,ბინა
+sauber,ზაუბერ,სუფთა
+sauber machen,ზაუბერ მახენ,დასუფთავება
+abschließen,აბშლისენ,ჩაკეტვა
+rauchen,ღაუხნ,მოწევა
+putzen,ფუცენ,გაწმენდა
+Geschirr,გეშია,ჭურჭელი
+selber,ზელბერ,თვითონ
+abspülen,აბშფულენ,გავლება წყლით
+Wäsche,ვეშე,სარეცხი
+ziemlich,ციმლიჰ^,საკმაოდ
+hell,ნათელი,ჰელლ
+unordentlich,უნონდენთლი^,მოუწესრიგებელი
+ordentlich,ონდენთლი^,მოწესრიგებული
+aufräumen,აუფღოიმენ,დალაგება
+benutzen,ბენუცენ,გამოყენება
+Regeln,ღეგენ,წესები
+wichtigste,ვიჰ^თიქსე,ყველაზე მნიშვნელოვანი
+Rauchverbot,ღაუხfეაბოტ,მოწევის აკრძალვა
+verbot,fეაბოთ,აკრძალვა
+geeignet,გეაიგნეთ,შესაბამისი
+Außerdem,აუსედემ,გარდა ამისა
+Haustiere,ჰაუსთიღე,შინაური ცხოველები
+laute ,ლაუთ,ხმამაღლა
+Wirklich,ვირქლიშ,მართლა
+einziehen,აინციენ,შესახლება
+Sofort,ზოfოთ,დაუყოვნებლივ
+Feuerzeug,fაიაცაიქ,სანთებელა
+wollen,ვოლენ,ვაპირებ გადაწყვეტილად
+möchten,მეხ^თენ,მინდა
+dürfen,დიუfენ,may
+bügeln,ბუგენ,გაუთოვება
+Staub,შთაუგ,მტვერი
+feiern,fიან,აღნიშვნა
+entschudigung,ენთშულდიგუნ,უკაცრავად
+erlaubt,ელაუბთ,ნებადართულია
+gefallen,გეfალენ,მოწონება
+passen,ფასენ,გაწყობს

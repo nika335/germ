@@ -1,0 +1,100 @@
+Paar,ფაა,წყვილი
+Paare,ფააღე,წყვილები
+Vor,fოა,Before
+In der Regel,ინ დე ღიგელ,ჩვოულებრივ
+Heiratsantrag,ჰაიღაცანთხაქ,ხელის თხოვნა
+Schürze,შ^^ცე,წინსაფარი
+Dorf,დოოf,სოფელი
+Plötzlich,ფლაცლიჰ^,უცებ
+Leitung,ლაითუნ,ხაზი
+Stern,შთეან,ვარსკვლავი
+Bisher,ბისჰია,აქამდე
+gehört (er, ...),გეჰ^თ ეა,ის ეკუთვნის
+Doch,დოხ,მაგრამ
+mehr,მეა,მეტი
+bald,ბალთ,მალე
+Rechtsanwalt,ღიშთსანვალთ,ადვოკატი
+brach,ბღახ,broke
+wurde,ვუუდე,გახდა
+Lehrling,ლეალინ,შეგირდი
+Ausbildung,აუსბილდუნ,ტრენინგი
+Wanderwege,ვანდავიგე,საფეხმავლო ბილიკები
+teilnehmen,თაინიმენ,მონაწილეობა
+Bauernhof,ბაუანჰუf,ფერმა
+Lassen,ლასნ,ნებართვა
+verwöhnen,fეავ^^ნენ,განებივრება
+Genießen Sie,გენისნ ზი,Enjoy
+das Meer,დას მეა,ზღვა
+Zeitreise,ცაითღაიზე,დროში მოგზაურობა
+erleben,ელიდნ,experience ან see
+Lust,ლუსთ,სურვილი
+herz,ჰეაც,გული
+im herzen,იმ ჰეაცნ,გულში
+zweitgrößte,ცვაიტგღუსე,სიდიდით მეორე
+im laufe,იმ ლაუfე,რაღაცის მანძილზე ან განმავლობაშ
+eigentümer,აიგენთუმა,მესაკუთრე
+erlesen,ელიზნ,გადატანა ან გამოცდილების მიღება
+umbauten,უნბაუთენ,გადაკეთებები
+bereich,ბეღაიჰ^,სფერო ან დარგი
+zerstög,ცეაშთ^^ქ,ნგრევა
+ist wert,ისთ ვეათ,ღირს
+abteilung,აბთაილუნ,განყოფილება
+werkstatt,ვეაქშთათ,სახელოსნო
+gebäude,გებოიდე,შენობა აბ კორპუსი
+knöpfe,ქნ^^ფfე,ღილები
+erweitern,ეავაითან,გაფართოება
+angebot,ანგებოთ,შეთავაზება ან ასორტიმენტი
+jetzig,იეზიჰ^,ახლანდელი
+(aus)wählen,(აუს)ველენ,არჩევა
+auswahl,აუსვალ,არჩევანი
+vermögen,fეამუგნ,ქონება
+musste,მუსტე,must
+ganzen,განცნ,მთელი
+Gemüse,გემუ^ზ^^,ბოსტნეული
+schneiden,შნაიდნ,გაჭრა
+verschiedenen,fეაშიდნნ ,განსხვავებული
+eigenes,აიგენეს,საკუთარი
+eröffnen,ეეfნენ,open
+engem,ენგ^მ,მჭიდრო
+kürzlich,ქ^ცლიჰ^,recently
+Ehepaar,ეაფაა,დაქორწინებული წყვილი
+sagte,ზაქთ^^,განაცხადა
+irgendwie,ეაგნთვი,როგორღაც
+Sohn,ზოონ,შვილი ბიჭი
+nett,ნეთ,კეთილი
+gern geschehen,გეან გეშიინ,არაფრის
+übrigens,უნღიგნს,by the way
+bisschen,ბისჰ^ენ,ცოტა
+vergessen,fეაგესსნ,დავიწყება
+Friseur,fღიზუა,დალაქი
+einladen,აინლადნ,დაპატიჟება
+zurückrufen,ცუღუქხუfენ,call back
+erreichen,ეღაიჰ^ენ,to reach
+statt,შტაათ,მაგივრად
+anmelden,ანმელდნ,რეგისტრაცია
+anziehen,ანციენ,ჩაცმა
+umziehen,უმციენ,გახდა
+ärgern,ეაგან,annoy
+duschen,დუშნ,შხაპის მიღება
+erinnern,ეაინან,remember
+föhnen,fუ^ნ^^ნ,გაშრობა
+schminken,შმინქ^^ნ,კოსმეტიკა
+treffen,თრეfნ,meet
+beeilen,ბეაილენ,იჩქარე
+günstig,გუნსთიჰ^,ხესაყრელი
+anbieten,ანბითნ,შეთავაზება(ზმნა)
+oberste etage,ობასთე ეთაჟ^^,სულ ზედა სართული
+unter anderem,ანთა ანდეღემ,სხვა დანაჩენებს შორის
+betrugen > betragen,ბეთჰუღენ > ბათჰაღენ,შეადგენს
+beliebt,ბელიბთ,პოპულარული
+Freizeitmöglichkeiten,fღაიცაითმუ^ქლიჰ^ქაითნ,თავისუფალ დროს საქმიანობა
+alles,ალეს,ყველაფერი
+wichtig,ვიჰ^თიჰ^,მნიშვნელოვანი
+abgeschlossen,აფგეშლოსენ,completed
+weniger,ვეინიგა,ნაკლები
+zuhörerinnen,ცუჰეღეღინენ,მსმენელები
+Zuhörer,ცუჰეღ^^,მსმენელი
+angebot,ანგებოთ,შეთავაზება
+günstig,გ^^ნსთიჰ^,იაფი
+genau,გენაუ,ზუსტად
+Ausnahme,აუსნამე,გამონაკლისი
